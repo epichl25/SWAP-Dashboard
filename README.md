@@ -3,7 +3,7 @@
 This repository contains the software of the SWAP Dashboard designed for the Smart Water Auditing (Final Year) Project.
 
 
-Mechanism:
+## Mechanism:
 
 The SWAP dashboard was designed to visualise user's water usage data on an easy-to-use yet interactive display using the LVGL library. Meanwhile, the dashboard communicates with the server via MQTT using an ESP8266 Wi-Fi module. For more information on the SWAP dashboard's Wi-Fi communication, please visit the following link: https://github.com/epichl25/SWAP-Dashboard-Wi-Fi
 

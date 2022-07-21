@@ -24,4 +24,5 @@ The SWAP dashboard was designed to visualise user's water usage data on an easy-
 ![Settings tab](https://github.com/epichl25/SWAP-Dashboard/blob/main/Dashboard%20photos/tab%203.jpg)
 
 
-
+#### Further information
+For more information on the SWAP dashboard, you may visit the following website: https://innoacademy.engg.hku.hk/water-auditing/
